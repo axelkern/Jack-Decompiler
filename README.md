@@ -1,4 +1,4 @@
-# Nand2Tetris Jac Decompiler
+# Nand2Tetris Jack Decompiler
 
 Call the jar file with:
 
